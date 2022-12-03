@@ -32,7 +32,6 @@
             <Button x:Name="SkipToNext" Text="Skip To Next" Clicked="SkipToNext_Clicked" IsVisible="false" 
                FontSize="20" WidthRequest="150" ></Button>
         </HorizontalStackLayout>
-        <Button x:Name="NewQuiz" Text="Next Quiz" Clicked="NewQuiz_Clicked" IsVisible="false" Margin="40"
-               FontSize="20"  WidthRequest="150"></Button>
+      
     </VerticalStackLayout>
 </ContentPage>
