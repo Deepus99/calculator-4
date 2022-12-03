@@ -11,6 +11,8 @@ namespace Calculator
     [Table("exprsn name")]
     public class HistoryItem
     {
+          [MaxLength(210)]
+        public string QuestionAnswer { get; set; }
       
        
 
