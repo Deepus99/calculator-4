@@ -11,6 +11,8 @@
                 <!--<ResourceDictionary Source="LightTheme.xaml" />-->
                 <!--<ResourceDictionary Source="DarkTheme.xaml" />
                 <ResourceDictionary Source="GreenTheme.xaml" />-->
+                          </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
 
 
 
